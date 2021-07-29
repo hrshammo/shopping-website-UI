@@ -32,8 +32,7 @@ header{
     background-color: #000000;
  }
  body{
-    background: linear-gradient(90deg, rgba(255,148,193,0.7455357142857143) 0%, rgba(255,148,193,0.5942752100840336) 100%);*/
-    background: rgb(246 208 251 / 69%);
+     background-color: #fcd9fa;
     justify-items: center;
     text-align: center;
 }
