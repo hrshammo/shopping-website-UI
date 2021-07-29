@@ -242,8 +242,6 @@ px      68    160    252    344    436    */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 	
 	body {
-		width: 436px;
-		padding: 36px 22px 48px;
 		width: 100%;
 		/*padding: 48px 34px 60px;*/
 		padding: 0;
@@ -251,7 +249,66 @@ px      68    160    252    344    436    */
 	}
 	header{
 		height: 100px;
+		position: fixed;
 	}
+	.logo img{
+		width: 70px;
+		top: 0px;
+		height: 70px;
+		left: 9%;
+	}
+	.dropbtn {
+		padding: 7px;
+		height: 49px;
+		top: 41px;
+		left: 42px;
+		
+	}
+	.dropdown{
+		
+	}
+	.dropdown-content {
+		top: 89px;
+	}
+	.search{
+		width: 30%;
+		right: 40%;
+	}
+	.headerimg{
+		right: 52%;
+		top: -10px;
+	}
+	.side .headerimg a img{
+		width: 15px;
+	}
+	.path{
+		right: 0px;
+    top: 92px;
+    font-size: 12px;
+	}
+	.image{
+		left: -2%;
+		width: 100%;
+        top: 79px;
+	}
+	.image img{
+		width: 100%;
+	}
+	.none{
+		display: none;
+	}
+	
+	.details{
+		width: 92%;
+		top: 100px;
+	}
+	.productsdetails{
+		width: 92%;
+        top: 64px;
+	}
+	.delivery button {
+		left: -17%;
+}
 	
 }
 
