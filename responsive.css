@@ -302,9 +302,15 @@ px      68    160    252    344    436    */
 		width: 92%;
 		top: 100px;
 	}
+	.rateing {
+		width:60%;
+	}
+	.pin{
+		width:80%;
+	}
 	.productsdetails{
 		width: 92%;
-        top: 64px;
+       		 top: 64px;
 	}
 	.delivery button {
 		left: -17%;
