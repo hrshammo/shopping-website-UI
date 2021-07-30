@@ -358,18 +358,20 @@ px      68    160    252    344    436    */
 		top: 41px;
 		left: 60px;
 	}
-	.dropdown{
-		
-	}
+	
+	.dropdown {
+    
+    right: 50%;
+    }
 	.dropdown-content {
 		top: 89px;
 	}
 	.search{
 		width: 30%;
-		right: 45%;
+		right: 50%;
 	}
 	.headerimg{
-		right: 52%;
+		right: 60%;
 		top: -10px;
 	}
 	.headerimg p{
