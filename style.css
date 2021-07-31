@@ -394,6 +394,7 @@ footer{
     float: left;
     color: whitesmoke;
     text-align: initial;
+	margin-top: 70px;
 }
 .footermain{
     width: 500px;
