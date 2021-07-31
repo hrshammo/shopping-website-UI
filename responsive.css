@@ -315,6 +315,26 @@ px      68    160    252    344    436    */
 	.delivery button {
 		left: -17%;
 }
+	footer{
+		font-size: 12px;
+	}
+	.app{
+		width: 30%;
+	}
+	.app img{
+		width: 60%;
+	}
+	.social{
+		width: 30%;
+	}
+	
+	.social ul li img{
+		width: 20px;
+	}
+	
+	.aboutus{
+		  width: 60%;
+	}
 	
 }
 
@@ -415,5 +435,24 @@ px      68    160    252    344    436    */
 	.delivery button {
 		left: -17%;
 }
-
+	footer{
+		font-size: 12px;
+	}
+	.app{
+		width: 30%;
+	}
+	.app img{
+		width: 60%;
+	}
+	.social{
+		width: 30%;
+	}
+	
+	.social ul li img{
+		width: 20px;
+	}
+	
+	.aboutus{
+		  width: 60%;
+	}
 }
